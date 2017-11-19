@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap4byexample",
+  "version": "1.0.0",
+  "description": "Bootstrap4 by Example Udemy course repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
